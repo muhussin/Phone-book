@@ -36,14 +36,6 @@ It allows users to manage their contact information through basic operations suc
 4. Add, view, search, or delete contacts.
 5. The application displays the result based on the selected operation.
 
-## Project Structure
-
-```text
-Phone-Book/
-│
-├── Phone_Book.ipynb
-└── README.md
-```
 
 ## Learning Outcomes
 
